@@ -1,4 +1,3 @@
-Here’s a simple **README.md** you can use for your survey form project:
 
 ---
 
@@ -11,6 +10,8 @@ This project is a basic HTML survey form designed to collect user feedback about
 ## 🛠️ Technologies Used
 ![img](./img1.png)
 ![img](./img2.png)
+
+[link](https://elbineldhose007.github.io/the-survey-form/)
 * HTML5
 
 ## 📋 Features
@@ -63,10 +64,4 @@ This project is ideal for beginners learning HTML forms and input elements.
 
 ---
 
-If you'd like, I can also:
 
-* Improve your HTML structure
-* Add CSS styling
-* Make it responsive
-* Connect it to a backend
-* Convert it into a professional portfolio project 🚀
